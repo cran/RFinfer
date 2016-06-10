@@ -1,0 +1,15 @@
+955c139095623b4b6e6d6084e270d21f *DESCRIPTION
+b87054f19ec7f4d306edcb245097125f *NAMESPACE
+6a3d9ecf93282e52c13e627dde94abda *NEWS.md
+6f0fc70ed63c6c8137040a2afd61abcf *R/CB_cforest.R
+fd644bbc05b912c79ba43bc4a3b92b06 *R/rfPredVar.R
+cbb4ada964b821cec28b54e48083f1fa *README.md
+5612a76180989968ffcd31541f3364ec *build/vignette.rds
+cf3261444297d6316fc6891844c3606d *inst/doc/IJ_vig.Rmd
+0610621293aaf903603fd984b573bd3d *inst/doc/IJ_vig.html
+fe8a238612a907ef764620df410c1551 *inst/doc/RFinfer-examples.R
+3665785aff45e6db75b3dd1e1c6761e2 *inst/doc/RFinfer-examples.Rmd
+65618b73056da00227d2b806d7763fc2 *inst/doc/RFinfer-examples.html
+f0d3f0737322880a780d93fa6fa4dfcc *man/rfPredVar.Rd
+cf3261444297d6316fc6891844c3606d *vignettes/IJ_vig.Rmd
+3665785aff45e6db75b3dd1e1c6761e2 *vignettes/RFinfer-examples.Rmd
